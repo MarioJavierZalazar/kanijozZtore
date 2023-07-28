@@ -1,0 +1,53 @@
+:root{
+    --primaryColor: rgb(232,231,1) ;
+    --secundaryColor: rgb(33,37,41);
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Rubik', sans-serif;
+    color: var(--secundaryColor);
+    background: #f2f2f2;
+}
+
+header,
+footer {
+    background: var(--secundaryColor)
+}
+
+header .logo {
+    max-width: 120px;
+}
+
+header .logo img {
+    width: 100%;
+}
+
+.textoPrimario {
+    color: var(--primaryColor)
+}
+
+.nav-link:hover {
+    color: rgba(232,231,1,0.6);
+}
+
+main {
+    max-width: 1200px;
+}
+
+main .btn {
+    background: var(--primaryColor);
+    font-weight: 700;
+}
+
+main .btn:hover {
+    background: var(--secundaryColor);
+    color: var(--primaryColor);
+    font-weight: 700;
+}
