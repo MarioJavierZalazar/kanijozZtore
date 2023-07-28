@@ -1,4 +1,19 @@
-let products = [];
+let products = [
+    {
+        "id": "1",
+        "name": "Necrofagos",
+        "price": "1500",
+        "text": "14 Necrofagos de plomo, edicion vieja de GW",
+        "picture": "../img/necrofagosPlomo.jpg"
+    },
+    {
+        "id": "2",
+        "name": "FFF",
+        "price": "100",
+        "text": "asdasdasdasd",
+        "picture": "../img/necrofagosPlomo.jpg"
+    }
+]
 
 class Product {
     constructor(id, name, price, text, picture) {
@@ -44,13 +59,4 @@ const grillaDePorductosUI = (lista) =>{
     }
 }
 
-$.get('../data/products.json', (respuesta, estado) => {
-    if (estado == 'success') {
-        for (const product of respuesta){
-            products.push(new Product(product.id,product.name,product.price,product.text,product.picture))
-        }
-        grillaDePorductosUI(products.reverse());
-    } else {
-        console.log('Error en la carga de datos');
-    };
-})
+grillaDePorductosUI(products.reverse());
