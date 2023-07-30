@@ -3,14 +3,28 @@
         "id": "1",
         "name": "Necrofagos",
         "price": "1500",
-        "text": "14 Necrofagos de plomo, edicion vieja de GW",
+        "text": "14 Necrofagos de plomo, edicion vieja de GW.",
         "picture": "../img/necrofagosPlomo.jpg"
     },
     {
         "id": "2",
-        "name": "Asd",
-        "price": "100",
-        "text": "asdasdasdasd",
+        "name": "Cartas Esenciales Underworld",
+        "price": "2000",
+        "text": "Mazo de cartas basico para Underworld, originales sin abrir.",
+        "picture": "../img/necrofagosPlomo.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Marcadores de PIN",
+        "price": "2500",
+        "text": "12 marcadores de PIN Bolt action Originales.",
+        "picture": "../img/necrofagosPlomo.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Clones Phase II + Jedi",
+        "price": "2000",
+        "text": "Unidad de 4 clones trooper fase 2 + Sargento + Aayla, todos impresos en Resina ",
         "picture": "../img/necrofagosPlomo.jpg"
     }
 ]
