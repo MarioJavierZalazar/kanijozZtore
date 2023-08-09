@@ -25,7 +25,7 @@
         "name": "T-20",
         "price": "500",
         "text": "Un T-20 3D PLA y sin pintar",
-        "picture": "../img/t20.jpeg"
+        "picture": "../img/T20.jpeg"
     },
     {
         "id": "7",
@@ -95,7 +95,7 @@
         "name": "HQ Heer invierno",
         "price": "3000",
         "text": "2 HQ whitemetal de invierno y sin pintar",
-        "picture": "../img/hq.jpeg"
+        "picture": "../img/HQ.jpeg"
     },
     {
         "id": "17",
