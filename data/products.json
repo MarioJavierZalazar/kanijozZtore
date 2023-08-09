@@ -3,28 +3,112 @@
         "id": "1",
         "name": "Necrofagos",
         "price": "1500",
-        "text": "14 Necrofagos de plomo, edicion vieja de GW.",
-        "picture": "../img/necrofagosPlomo.jpg"
-    },
-    {
-        "id": "2",
-        "name": "Cartas Esenciales Underworld",
-        "price": "2000",
-        "text": "Mazo de cartas basico para Underworld, originales sin abrir.",
+        "text": "14 Necrofagos de plomo, sin pintar, edicion vieja de GW",
         "picture": "../img/necrofagosPlomo.jpg"
     },
     {
         "id": "3",
         "name": "Marcadores de PIN",
         "price": "2500",
-        "text": "12 marcadores de PIN Bolt action Originales.",
-        "picture": "../img/necrofagosPlomo.jpg"
+        "text": "12 marcadores de PIN Bolt action Originales",
+        "picture": "../img/pines.jpeg"
     },
     {
         "id": "4",
         "name": "Clones Phase II + Jedi",
         "price": "2000",
-        "text": "Unidad de 4 clones trooper fase 2 + Sargento + Aayla, todos impresos en Resina ",
+        "text": "Unidad de 4 clones fase 2 + Sargento + Aayla, 3D Resina y sin pintar",
+        "picture": "../img/pashe2.jpeg"
+    },
+    {
+        "id": "5",
+        "name": "T-20",
+        "price": "500",
+        "text": "Un T-20 3D PLA y sin pintar",
+        "picture": "../img/t20.jpeg"
+    },
+    {
+        "id": "7",
+        "name": "Portal",
+        "price": "5000",
+        "text": "Portal 3D y sin pintar",
+        "picture": "../img/portal.jpeg"
+    },
+    {
+        "id": "8",
+        "name": "Truk americano",
+        "price": "3000",
+        "text": "Truk americano 2 1/2 T. Original y sin pintar, de la marca Rubricon",
+        "picture": "../img/trukAmericano.jpeg"
+    },
+    {
+        "id": "9",
+        "name": "Cronwell",
+        "price": "1500",
+        "text": "Cronwell britanico 3D PLA y sin pintar",
+        "picture": "../img/Cronwell.jpeg"
+    },
+    {
+        "id": "10",
+        "name": "Esquletos Lanceros",
+        "price": "5000",
+        "text": "Unidad de 20 esqueletos 3D resina y sin pintar",
+        "picture": "../img/20Esqueletos.jpeg"
+    },
+    {
+        "id": "11",
+        "name": "Jinetes Esqueletos",
+        "price": "1500",
+        "text": "Grupo de mando (campeon, musico y estandarte) 3D resina y sin pintar",
+        "picture": "../img/jinetes.jpeg"
+    },
+    {
+        "id": "12",
+        "name": "Necromancer",
+        "price": "400",
+        "text": "Necromancer 3D resina y sin pintar",
+        "picture": "../img/necromancer.jpeg"
+    },
+    {
+        "id": "13",
+        "name": "Vampiro (vlad)",
+        "price": "400",
+        "text": "Vampiro tipo Vlad, 3D resina y sin pintar",
+        "picture": "../img/vlad.jpeg"
+    },
+    {
+        "id": "14",
+        "name": "Esqueletos Tumularios",
+        "price": "3000",
+        "text": "9 esquletos tumularios con arma de mano, 3D resina y sin pintar",
+        "picture": "../img/tumularios.jpeg"
+    },
+    {
+        "id": "15",
+        "name": "Heer de invierno",
+        "price": "10000",
+        "text": "Unidad de 10 Heer de invierno (1 NCO, 1 LMG, 7 Rifles), originales y sin pintar",
+        "picture": "../img/HeerAlemanes.jpeg"
+    },
+    {
+        "id": "16",
+        "name": "HQ Heer invierno",
+        "price": "3000",
+        "text": "2 HQ whitemetal de invierno y sin pintar",
+        "picture": "../img/hq.jpeg"
+    },
+    {
+        "id": "17",
+        "name": "Opel",
+        "price": "15000",
+        "text": "Opel aleman original de bolt action, pintado en un 80%",
+        "picture": "../img/OPEL.jpeg"
+    },
+    {
+        "id": "18",
+        "name": "Manual Bolt action 2ed",
+        "price": "5000",
+        "text": "Manual de Bolt Action 2ed, edicion de bolsillo en ingles",
         "picture": "../img/necrofagosPlomo.jpg"
     }
 ]

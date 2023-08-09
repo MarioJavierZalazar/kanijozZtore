@@ -1,3 +1,7 @@
 .cardImg {
     cursor: pointer;
 }
+
+.card-text {
+    height: 4rem;
+}

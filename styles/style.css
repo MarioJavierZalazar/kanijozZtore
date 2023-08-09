@@ -40,13 +40,47 @@ main {
     max-width: 1200px;
 }
 
-main .btn {
+.primario {
     background: var(--primaryColor);
     font-weight: 700;
 }
 
-main .btn:hover {
+.primario:hover {
     background: var(--secundaryColor);
     color: var(--primaryColor);
+    font-weight: 700;
+}
+
+.face {
+    background: #1877f2;
+    color: #fff;
+    font-weight: 700;
+}
+
+.face:hover {
+    background: var(--secundaryColor);
+    color: #1877f2;
+    font-weight: 700;
+}
+.insta {
+    background: #c13584;
+    color: #fff;
+    font-weight: 700;
+}
+
+.insta:hover {
+    background: var(--secundaryColor);
+    color: #c13584;
+    font-weight: 700;
+}
+.whats {
+    background: #25d366;
+    color: #fff;
+    font-weight: 700;
+}
+
+.whats:hover {
+    background: var(--secundaryColor);
+    color: #25d366;
     font-weight: 700;
 }

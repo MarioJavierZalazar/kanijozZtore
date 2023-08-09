@@ -27,7 +27,7 @@ const grillaDePorductosUI = (lista) => {
                      <p class="card-text">${product.text}</p>
                      <div class="d-flex justify-content-around align-items-baseline">
                          <a target="_blank" href="https://api.whatsapp.com/send?phone=541173692881&text=Hola%20me%20interesa%20este%20producto%20${product.name}"
-                        class="btn">Contactar</a>
+                        class="btn primario">Contactar</a>
                         <div>
                             <p>$${product.price}</p>
                         </div>
