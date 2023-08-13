@@ -1,12 +1,5 @@
 [
     {
-        "id": "1",
-        "name": "Necrofagos",
-        "price": "1500",
-        "text": "14 Necrofagos de plomo, sin pintar, edicion vieja de GW",
-        "picture": "../img/necrofagosPlomo.jpg"
-    },
-    {
         "id": "3",
         "name": "Marcadores de PIN",
         "price": "2500",
@@ -77,20 +70,6 @@
         "picture": "../img/vlad.jpeg"
     },
     {
-        "id": "14",
-        "name": "Esqueletos Tumularios",
-        "price": "3000",
-        "text": "9 esquletos tumularios con arma de mano, 3D resina y sin pintar",
-        "picture": "../img/tumularios.jpeg"
-    },
-    {
-        "id": "15",
-        "name": "Heer de invierno",
-        "price": "10000",
-        "text": "Unidad de 10 Heer de invierno (1 NCO, 1 LMG, 7 Rifles), originales y sin pintar",
-        "picture": "../img/HeerAlemanes.jpeg"
-    },
-    {
         "id": "16",
         "name": "HQ Heer invierno",
         "price": "3000",
@@ -109,6 +88,27 @@
         "name": "Manual Bolt action 2ed",
         "price": "5000",
         "text": "Manual de Bolt Action 2ed, edicion de bolsillo en ingles",
-        "picture": "../img/necrofagosPlomo.jpg"
+        "picture": "../img/manualBolt.jpeg"
+    },
+    {
+        "id": "19",
+        "name": "Heer de invierno A",
+        "price": "10000",
+        "text": "Unidad de 10 Heer de invierno (1 NCO, 1 LMG, 7 Rifles), originales y sin pintar",
+        "picture": "../img/heerInviernoA.jpeg"
+    },
+    {
+        "id": "20",
+        "name": "Heer de invierno B",
+        "price": "10000",
+        "text": "Unidad de 10 Heer de invierno (1 NCO, 1 LMG, 7 Rifles), originales y a medio pintar",
+        "picture": "../img/heerInviernoB.jpeg"
+    },
+    {
+        "id": "30",
+        "name": "Heer de invierno C",
+        "price": "10000",
+        "text": "Unidad de 10 Heer de invierno (1 NCO, 1 LMG, 7 Rifles), originales y sin pintar",
+        "picture": "../img/heerInviernoC.jpeg"
     }
 ]
