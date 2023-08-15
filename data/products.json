@@ -1,12 +1,5 @@
 [
     {
-        "id": "3",
-        "name": "Marcadores de PIN",
-        "price": "2500",
-        "text": "12 marcadores de PIN Bolt action Originales",
-        "picture": "../img/pines.jpeg"
-    },
-    {
         "id": "4",
         "name": "Clones Phase II + Jedi",
         "price": "2000",
@@ -89,26 +82,5 @@
         "price": "5000",
         "text": "Manual de Bolt Action 2ed, edicion de bolsillo en ingles",
         "picture": "../img/ManualBolt.jpeg"
-    },
-    {
-        "id": "19",
-        "name": "Heer de invierno A",
-        "price": "10000",
-        "text": "Unidad de 10 Heer de invierno (1 NCO, 1 LMG, 7 Rifles), originales y sin pintar",
-        "picture": "../img/heerInviernoA.jpeg"
-    },
-    {
-        "id": "20",
-        "name": "Heer de invierno B",
-        "price": "10000",
-        "text": "Unidad de 10 Heer de invierno (1 NCO, 1 LMG, 7 Rifles), originales y a medio pintar",
-        "picture": "../img/heerInviernoB.jpeg"
-    },
-    {
-        "id": "30",
-        "name": "Heer de invierno C",
-        "price": "10000",
-        "text": "Unidad de 10 Heer de invierno (1 NCO, 1 LMG, 7 Rifles), originales y sin pintar",
-        "picture": "../img/heerInviernoC.jpeg"
     }
 ]
