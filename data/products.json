@@ -75,12 +75,5 @@
         "price": "15000",
         "text": "Opel aleman original de bolt action, pintado en un 80%",
         "picture": "../img/OPEL.jpeg"
-    },
-    {
-        "id": "18",
-        "name": "Manual Bolt action 2ed",
-        "price": "5000",
-        "text": "Manual de Bolt Action 2ed, edicion de bolsillo en ingles",
-        "picture": "../img/ManualBolt.jpeg"
     }
 ]
