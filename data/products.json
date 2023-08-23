@@ -21,13 +21,6 @@
         "picture": "../img/portal.jpeg"
     },
     {
-        "id": "8",
-        "name": "Truk americano",
-        "price": "3000",
-        "text": "Truk americano 2 1/2 T. Original y sin pintar, de la marca Rubricon",
-        "picture": "../img/trukAmericano.jpeg"
-    },
-    {
         "id": "9",
         "name": "Cronwell",
         "price": "1500",
