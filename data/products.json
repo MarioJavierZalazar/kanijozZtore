@@ -28,32 +28,11 @@
         "picture": "../img/Cronwell.jpeg"
     },
     {
-        "id": "10",
-        "name": "Esquletos Lanceros",
-        "price": "5000",
-        "text": "Unidad de 20 esqueletos 3D resina y sin pintar",
-        "picture": "../img/20Esqueletos.jpeg"
-    },
-    {
-        "id": "11",
-        "name": "Jinetes Esqueletos",
-        "price": "1500",
-        "text": "Grupo de mando (campeon, musico y estandarte) 3D resina y sin pintar",
-        "picture": "../img/jinetes.jpeg"
-    },
-    {
         "id": "12",
         "name": "Necromancer",
         "price": "400",
         "text": "Necromancer 3D resina y sin pintar",
         "picture": "../img/necromancer.jpeg"
-    },
-    {
-        "id": "13",
-        "name": "Vampiro (vlad)",
-        "price": "400",
-        "text": "Vampiro tipo Vlad, 3D resina y sin pintar",
-        "picture": "../img/vlad.jpeg"
     },
     {
         "id": "16",
