@@ -1,51 +1,48 @@
 [
     {
-        "id": "4",
-        "name": "Clones Phase II + Jedi",
-        "price": "2000",
-        "text": "Unidad de 4 clones fase 2 + Sargento + Aayla, 3D Resina y sin pintar",
-        "picture": "../img/pashe2.jpeg"
-    },
-    {
-        "id": "5",
-        "name": "T-20",
-        "price": "500",
-        "text": "Un T-20 3D PLA y sin pintar",
-        "picture": "../img/T20.jpeg"
-    },
-    {
-        "id": "7",
-        "name": "Portal",
-        "price": "5000",
-        "text": "Portal 3D y sin pintar",
-        "picture": "../img/portal.jpeg"
-    },
-    {
         "id": "9",
         "name": "Cronwell",
-        "price": "1500",
+        "price": "1000",
         "text": "Cronwell britanico 3D PLA y sin pintar",
         "picture": "../img/Cronwell.jpeg"
     },
     {
-        "id": "12",
-        "name": "Necromancer",
-        "price": "400",
-        "text": "Necromancer 3D resina y sin pintar",
-        "picture": "../img/necromancer.jpeg"
-    },
-    {
-        "id": "16",
-        "name": "HQ Heer invierno",
-        "price": "3000",
-        "text": "2 HQ whitemetal de invierno y sin pintar",
-        "picture": "../img/HQ.jpeg"
-    },
-    {
         "id": "17",
         "name": "Opel",
-        "price": "15000",
-        "text": "Opel aleman original de bolt action, pintado en un 80%",
+        "price": "6500",
+        "text": "Opel aleman original de bolt action, pintado en un 80% + Calcos",
         "picture": "../img/OPEL.jpeg"
+    }
+    ,
+    {
+        "id": "20",
+        "name": "Fuente 3D PLA",
+        "price": "700",
+        "text": "Fuente impresa en PLA sin pintar",
+        "picture": "../img/fuente3D.jpeg"
+    }
+    ,
+    {
+        "id": "21",
+        "name": "Cartas de misiones 40k",
+        "price": "10000",
+        "text": "Cartas de misiones para 40k originales en español",
+        "picture": "../img/misionesCard.jpeg"
+    }
+    ,
+    {
+        "id": "22",
+        "name": "Ghouls Mantic",
+        "price": "10000",
+        "text": "15 ghouls de mantic originales sin pintar + bits",
+        "picture": "../img/ghouls.jpeg"
+    }
+    ,
+    {
+        "id": "23",
+        "name": "Scouts Marines espaciales",
+        "price": "10000",
+        "text": "5 scouts marines espaciales con francotirador originales imprimados",
+        "picture": "../img/scouts.jpeg"
     }
 ]
