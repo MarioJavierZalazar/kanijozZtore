@@ -8,7 +8,7 @@
     },
     {
         "id": "17",
-        "name": "Opel",
+        "name": "Opel - Reservados",
         "price": "6500",
         "text": "Opel aleman original de bolt action, pintado en un 80% + Calcos",
         "picture": "../img/OPEL.jpeg"
@@ -32,7 +32,7 @@
     ,
     {
         "id": "22",
-        "name": "Ghouls Mantic",
+        "name": "Ghouls Mantic - Reservados",
         "price": "10000",
         "text": "15 ghouls de mantic originales sin pintar + bits",
         "picture": "../img/ghouls.jpeg"
