@@ -45,4 +45,20 @@
         "text": "5 scouts marines espaciales con francotirador originales imprimados",
         "picture": "../img/scouts.jpeg"
     }
+    ,
+    {
+        "id": "24",
+        "name": "Esqueletos Old",
+        "price": "10000",
+        "text": "21 esqueletos de 4ta ed WHF",
+        "picture": "../img/esqueletos.jpeg"
+    }
+    ,
+    {
+        "id": "25",
+        "name": "Caballeria Muerta",
+        "price": "4000",
+        "text": "5 caballeros esqueletos, montura original jinete 3D resina",
+        "picture": "../img/caballeria.jpeg"
+    }
 ]
