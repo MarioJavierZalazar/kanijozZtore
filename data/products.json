@@ -7,14 +7,6 @@
         "picture": "../img/Cronwell.jpeg"
     },
     {
-        "id": "17",
-        "name": "Opel - Reservados",
-        "price": "6500",
-        "text": "Opel aleman original de bolt action, pintado en un 80% + Calcos",
-        "picture": "../img/OPEL.jpeg"
-    }
-    ,
-    {
         "id": "20",
         "name": "Fuente 3D PLA",
         "price": "700",
