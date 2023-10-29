@@ -53,4 +53,19 @@
         "text": "5 caballeros esqueletos, montura original jinete 3D resina",
         "picture": "../img/caballeria.jpeg"
     }
+    ,
+    {
+        "id": "26",
+        "name": "Swampcalla Shaman",
+        "price": "4500",
+        "text": "Swampcalla Shaman original, imprimado en negro",
+        "picture": "../img/shaman.jpeg"
+    },
+    {
+        "id": "27",
+        "name": "Killaboss on Great Gnashtoof",
+        "price": "7000",
+        "text": "Killaboss on Great Gnashtoof original, imprado en negro",
+        "picture": "../img/bossMounted.jpeg"
+    }
 ]
