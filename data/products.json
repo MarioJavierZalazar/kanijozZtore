@@ -23,14 +23,6 @@
     }
     ,
     {
-        "id": "22",
-        "name": "Ghouls Mantic - Reservados",
-        "price": "10000",
-        "text": "15 ghouls de mantic originales sin pintar + bits",
-        "picture": "../img/ghouls.jpeg"
-    }
-    ,
-    {
         "id": "23",
         "name": "Scouts 40k",
         "price": "10000",
