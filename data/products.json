@@ -15,14 +15,6 @@
     }
     ,
     {
-        "id": "21",
-        "name": "Cartas de misiones 40k",
-        "price": "10000",
-        "text": "Cartas de misiones para 40k originales en español",
-        "picture": "../img/misionesCard.jpeg"
-    }
-    ,
-    {
         "id": "23",
         "name": "Scouts 40k",
         "price": "10000",
@@ -30,29 +22,6 @@
         "picture": "../img/scouts.jpeg"
     }
     ,
-    {
-        "id": "24",
-        "name": "Esqueletos Old",
-        "price": "10000",
-        "text": "21 esqueletos de 4ta ed WHF",
-        "picture": "../img/esqueletos.jpeg"
-    }
-    ,
-    {
-        "id": "25",
-        "name": "Caballeria Muerta",
-        "price": "4000",
-        "text": "5 caballeros esqueletos, montura original jinete 3D resina",
-        "picture": "../img/caballeria.jpeg"
-    }
-    ,
-    {
-        "id": "26",
-        "name": "Swampcalla Shaman",
-        "price": "4500",
-        "text": "Swampcalla Shaman original, imprimado en negro",
-        "picture": "../img/shaman.jpeg"
-    },
     {
         "id": "27",
         "name": "Killaboss on Great Gnashtoof",
